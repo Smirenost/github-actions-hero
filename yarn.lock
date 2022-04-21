@@ -2825,10 +2825,10 @@ codemirror-github-dark@^0.4.1:
   resolved "https://registry.yarnpkg.com/codemirror-github-dark/-/codemirror-github-dark-0.4.1.tgz#b4ad213a98b722ca47906afac01b7ab2718766df"
   integrity sha1-tK0hOpi3IspHkGr6wBt6snGHZt8=
 
-codemirror@^5.53.2:
-  version "5.54.0"
-  resolved "https://registry.yarnpkg.com/codemirror/-/codemirror-5.54.0.tgz#82b6adf662b29eeb7b867fe7839d49e25e4a0b38"
-  integrity sha512-Pgf3surv4zvw+KaW3doUU7pGjF0BPU8/sj7eglWJjzni46U/DDW8pu3nZY0QgQKUcICDXRkq8jZmq0y6KhxM3Q==
+codemirror@^5.65.3:
+  version "5.65.3"
+  resolved "https://registry.yarnpkg.com/codemirror/-/codemirror-5.65.3.tgz#2d029930d5a293bc5fb96ceea64654803c0d4ac7"
+  integrity sha512-kCC0iwGZOVZXHEKW3NDTObvM7pTIyowjty4BUqeREROc/3I6bWbgZDA3fGDwlA+rbgRjvnRnfqs9SfXynel1AQ==
 
 collapse-white-space@^1.0.2:
   version "1.0.6"
